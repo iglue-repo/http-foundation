@@ -1,5 +1,8 @@
 {
-    "name": "symfony/http-foundation",
+    "name": "symfony@iglue/http-foundation",
+    "replace": {
+        "symfony/http-foundation": "v3.2.13"
+    },
     "type": "library",
     "description": "Symfony HttpFoundation Component",
     "keywords": [],
